@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Selenium framework for automating web browser interactions, with the test scripts and automation logic being written in the Java programming language.**
 
-- 💬 Ask me about **Core Java, Web-Tech, MySQL, Oracle, Manual Testing**
+- 💬 Ask me about **Core Java, Web-Tech, MySQL, Oracle/PLSQL, Manual Testing**
 
 - 📫 How to reach me **chetumuneshwar@gmail.com**
 
